@@ -1,4 +1,4 @@
-Test URL: No logr
+Test URL: Can't compile in Github
 
 Sass Assignment for Desafio Latam Fullstack Javascript course
 #
